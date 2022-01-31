@@ -1,4 +1,4 @@
-# credit-risk
+# South-German-Bank-Credit-Risk Prediction
 
 ## Introduction
 Normally, most of the bank's wealth is obtained from providing credit loans so that a marketing bank must be able to reduce the risk of non-performing credit loans. The risk
