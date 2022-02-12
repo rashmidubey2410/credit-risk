@@ -1,5 +1,7 @@
 # South-German-Bank-Credit-Risk Prediction
 
+APP Deployment Link Heroku: https://germanbank.herokuapp.com/
+
 ## Introduction
 Normally, most of the bank's wealth is obtained from providing credit loans so that a marketing bank must be able to reduce the risk of non-performing credit loans. The risk
 of providing loans can be minimized by studying patterns from existing lending data. One technique that you can use to solve this problem is to use data mining techniques.
