@@ -38,6 +38,6 @@ APP Deployment Link Heroku: https://germanbank.herokuapp.com/
 **Output variables:**
 
 `1. kredit = credit_risk`
-
+![result](https://user-images.githubusercontent.com/61832699/153744277-db847afa-cd71-4625-b311-998e8f497d0e.JPG)
 
 
