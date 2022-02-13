@@ -30,7 +30,14 @@ Data mining makes it possible to find hidden information from large data sets by
 19. telef = telephone
 20. gastarb = foreign_worker
 ~~~
+APP Deployment Link Heroku: https://germanbank.herokuapp.com/
+
+
+![app](https://user-images.githubusercontent.com/61832699/153744176-6184faec-e1b3-47be-a5f6-8a5ba5074909.JPG)
 
 **Output variables:**
 
 `1. kredit = credit_risk`
+
+
+
